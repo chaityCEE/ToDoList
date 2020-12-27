@@ -82,7 +82,7 @@ if(isset($_POST['update'])){
 <body>
 
 <div class="jumbotron text-center">
-   <h1>Welcome to your Daily task </h1>
+   <h1>Welcome to your Daily task user</h1>
    <small> Let's see what you are up to  !!! </small>
  </div>
 
