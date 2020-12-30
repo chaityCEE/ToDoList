@@ -100,7 +100,7 @@ if(isset($_POST['update'])){
 
 
 <div class="text-center">
- <a href="addform.php" class="btn btn-outline-primary mb-5 " role="button" > Add a Task <i class="fa fa-plus"></i></a>
+ <a href="addform.php" class="btn btn-outline-primary mb-5 btn-sm-block" role="button" > Add a Task <i class="fa fa-plus"></i></a>
 </div>
 
 <div class="container">
